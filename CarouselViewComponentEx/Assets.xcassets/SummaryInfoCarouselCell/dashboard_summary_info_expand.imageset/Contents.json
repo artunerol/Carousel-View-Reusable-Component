@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "dashboard_summary_info_willCollapse.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
